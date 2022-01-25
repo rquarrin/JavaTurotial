@@ -14,7 +14,7 @@ public class GetHub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("Welcome to get programing");
+        System.out.print("Welcome to git");
     }
     
 }
